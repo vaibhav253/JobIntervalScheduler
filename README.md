@@ -7,3 +7,5 @@ Fatch the employee data from the Mysql server dataset and assign a job to maximu
 For the mySql connection see the code
 
 [DBconnection.py](https://github.com/vaibhav253/JobIntervalScheduler/blob/master/DBconnection.py)
+
+mysql -u root -p < jobs.sql
