@@ -8,3 +8,5 @@ For the mySql connection see the code
 
 [DBconnection.py](https://github.com/vaibhav253/JobIntervalScheduler/blob/master/DBconnection.py)
 
+ExampleDB.csv
+
