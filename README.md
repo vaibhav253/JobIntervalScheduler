@@ -47,11 +47,27 @@ If Choice = 2
 
 it will ask to add new employee detail.
 
+For Example:
+
 Enter Employee id = 5
 
 Enter Employee name = abc
 
 Enter Hours that can Employee Works = 40
+
+If Choice = 3 
+it will assogn the job and ask for the job complition time. 
+
+Enter the time of job in seconds:5
+
+Job  assigned to employees
+
+['john', 'robin', 'kerin']
+
+job finish
+
+all employees are free now.
+
 
 
 
