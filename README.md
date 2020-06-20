@@ -30,7 +30,7 @@ Assign a Job = 3
 Quit the program = 4
 Enter your choice = 
 
-If Choice = 1
+**If Choice = 1**
 
 result will be
 
@@ -43,7 +43,7 @@ result will be
 [4, 'kerin', 30]
 
 
-If Choice = 2
+**If Choice = 2**
 
 it will ask to add new employee detail.
 
@@ -55,14 +55,15 @@ Enter Employee name = abc
 
 Enter Hours that can Employee Works = 40
 
-If Choice = 3 
-it will assogn the job and ask for the job complition time. 
+**If Choice = 3** 
+
+it will assign the job and ask for the job complition time. 
 
 Enter the time of job in seconds:5
 
-Job  assigned to employees
+**Job  assigned to employees**
 
-['john', 'robin', 'kerin']
+**['john', 'robin', 'kerin']**
 
 job finish
 
