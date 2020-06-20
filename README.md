@@ -17,7 +17,7 @@ ExampleDB.csv Data
 |3         |john        |20   |
 |4         |kerin       |30   |
 
-Run the only [Employee.py](Employee.py) file for get the menu of choices and from that it will give you a results accoring the choices.
+Run the only [Employee.py](Employee.py) file for get the menu of choices and from that it will give you a results accoring to that choices.
 
 
 
