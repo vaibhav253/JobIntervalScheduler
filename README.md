@@ -9,4 +9,15 @@ For the mySql connection see the code
 [DBconnection.py](https://github.com/vaibhav253/JobIntervalScheduler/blob/master/DBconnection.py)
 
 ExampleDB.csv shows the examples of the employees details.
+ExampleDB.csv Data
+|idemployee|employeename|hours|
+|----------|------------|-----|
+|1         |mike        |10   |
+|2         |robin       |40   |
+|3         |john        |20   |
+|4         |kerin       |30   |
+
+Run the only [DBconnection.py](https://github.com/vaibhav253/JobIntervalScheduler/blob/master/DBconnection.py) file for get the menu of choices and from that it will give you a results accoring the choices.
+
+
 
