@@ -8,4 +8,3 @@ For the mySql connection see the code
 
 [DBconnection.py](https://github.com/vaibhav253/JobIntervalScheduler/blob/master/DBconnection.py)
 
-mysql -u root -p -h localhost –-default-character-set=utf8 jobs < sqlfile.sql
