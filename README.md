@@ -29,6 +29,7 @@ Employee Details = 1
 Add new Employee Details = 2
 Assign a Job = 3
 Quit the program = 4
+
 Enter your choice = 
 
 **If Choice = 1**
